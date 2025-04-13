@@ -1,4 +1,4 @@
-This dashboard was built on the code shared by [Danny Groves Ph.D.](https://twitter.com/DrDanobi), link to the original [github repository](https://github.com/GrovesD2/market_monitor_trend_dash/tree/main#readme). The idea for the Trend Predictor was also built on "Dr. Danobi's" code and concept.
+This dashboard was built on the code shared by , link to the original [github repository](https://github.com/GrovesD. The idea for the Trend Predictor was also built on "Dr. Danobi's" code and concept.
 
 
 
